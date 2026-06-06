@@ -6,6 +6,7 @@ Sesuai dengan prinsip kolaborasi dan transparansi kerja kelompok, berikut adalah
 1. Nur Azizah (21060125130105) :
 - Membuat program grafik kategori A
 - Mengatur pemeliharaan repositori github
+- Berkontribusi aktif dalam pembuatan slide
 2. Calissa Syalom (21060125130127) :
 - Membuat grafik kategori C
 - berkontribusi aktif dalam pembuatan infografis
@@ -15,7 +16,8 @@ Sesuai dengan prinsip kolaborasi dan transparansi kerja kelompok, berikut adalah
 4. Rashad Sulthan A (21060125140149) :
 - Membuat grafik kategori B
 - berkontribusi aktif dalam pembuatan infografis
- Teknologi dan Library yang Digunakan :
+
+Teknologi dan Library yang Digunakan :
 - Python 3.14 - Bahasa pemrograman utama.
 - Jupyter Notebook (.ipynb) - Lingkungan kerja interaktif untuk penulisan kode dan penampilan grafik secara langsung.
 - Pandas & NumPy - Digunakan untuk manipulasi struktur tabel data dan komputasi matriks numerik.
